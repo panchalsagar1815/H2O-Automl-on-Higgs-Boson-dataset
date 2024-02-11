@@ -1,4 +1,4 @@
-# H2O-Automl-on
+# H2O-Automl
 
 **Project Title: H2O AutoML on Higgs Boson**
 
