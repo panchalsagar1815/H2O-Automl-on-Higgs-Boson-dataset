@@ -1,5 +1,4 @@
 #
-
 **Project Title: H2O AutoML on Higgs Boson**
 
 **Overview:**
