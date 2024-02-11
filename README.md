@@ -1,5 +1,4 @@
-#
-**Project Title: H2O AutoML on Higgs Boson**
+# **Project Title: H2O AutoML on Higgs Boson**
 
 **Overview:**
 The "H2O AutoML on Higgs Boson" project focuses on utilizing the H2O AutoML framework to analyze and predict the classification of Higgs Boson events based on various features. The dataset includes features such as EventId, DER_mass_MMC, DER_mass_transverse_met_lep, DER_mass_vis, DER_pt_h, and several others. The goal is to optimize the model selection process and achieve accurate classification using the H2O AutoML capabilities.
